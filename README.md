@@ -38,6 +38,4 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashLadlapure&show_icons=true&theme=radical" alt="Yash's GitHub stats" />
-</p>
+
