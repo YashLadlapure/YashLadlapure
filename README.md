@@ -46,7 +46,3 @@
 
 ---
 
-### ✨ Fun Facts
-- 🥑 Regular Bitcoin price checker
-- 🖊️ Technical writer & content creator
-- 🏆 Always exploring new tech & academic opportunities
