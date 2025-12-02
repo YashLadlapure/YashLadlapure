@@ -2,12 +2,23 @@
 
 B.Tech Computer Science Engineering @ MIT WPU, Pune
 
-## Stack
+I build full-stack web applications with React and Node.js. Interested in exploring cloud infrastructure, DevOps, and scalable system design.
 
-React | Node.js | MongoDB | JavaScript | Python | Docker | Vercel
+## Technologies
 
-## Reach Out
+**Frontend:** React, JavaScript, HTML/CSS, Vite  
+**Backend:** Node.js, Express, MongoDB, JWT  
+**Cloud:** Cloudinary, Vercel, Docker  
+**Languages:** JavaScript, Python, C++, Java  
 
-yashladlapure@gmail.com
+## What I'm Working On
 
-[LinkedIn](https://www.linkedin.com/in/yash-ladlapure) | [GitHub](https://github.com/YashLadlapure)
+- Full-stack projects with authentication and cloud storage
+- Hackathon projects (Smart India Hackathon 2025)
+- Learning DevOps practices and system design
+
+## Connect
+
+**Email:** yashladlapure@gmail.com  
+**LinkedIn:** [yash-ladlapure](https://www.linkedin.com/in/yash-ladlapure)  
+**GitHub:** [YashLadlapure](https://github.com/YashLadlapure)
