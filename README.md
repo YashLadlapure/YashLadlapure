@@ -1,7 +1,13 @@
 <h1 align="center">Hi, I'm Yash Ladlapure 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;Cloud+%26+DevOps+Enthusiast;B.Tech+CSE+%40+MIT-WPU+Pune;Open+to+Internship+Opportunities+🚀" alt="Typing SVG" />
+  <a href="https://github.com/YashLadlapure" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;Cloud+%26+DevOps+Enthusiast;B.Tech+CSE+%40+MIT-WPU+Pune;Open+to+Internship+Opportunities+%F0%9F%9A%80"
+      alt="Typing SVG"
+      onerror="this.style.display='none'"
+    />
+  </a>
 </p>
 
 <p align="center">
