@@ -23,7 +23,7 @@
 
 🎓 B.Tech Computer Science Engineering @ **MIT-WPU, Pune** (2023–2027)  
 💼 Actively seeking **Full-Stack / Cloud Engineering Internship** (6 months)  
-🔬 Co-authoring a research paper on **Transfer Learning & Brain-Computer Interface (BCI)** for **Springer LNCS**  
+📄 Published research accepted at **BrainCon – Springer, Volume 2 (Scopus-indexed), 2026**  
 🏆 Hackathon participant — **Smart India Hackathon 2025**  
 📍 Pune, Maharashtra, India  
 
@@ -90,9 +90,9 @@
 
 ## 🔬 Research
 
-📄 **Transfer Learning & Brain-Computer Interface (BCI)**  
-Co-authoring a paper under **BrainCon** for submission to **Springer LNCS**  
-*Topics: Neural Networks · ResNet · AlexNet · EEG Signal Classification · Deep Learning*
+**AyurGPT: An AI-Driven Heuristic Dietician Agent Integrating Ayurvedic Principles with Modern Nutritional Science**  
+Accepted at **BrainCon – Springer, Volume 2 (Scopus-indexed), 2026**  
+*Topics: Large Language Models · Ayurveda · Nutritional AI · Heuristic Agents · AI-driven Healthcare*
 
 ---
 
@@ -113,7 +113,7 @@ Co-authoring a paper under **BrainCon** for submission to **Springer LNCS**
 
 - 🔧 Deepening **system design** and **scalable architecture** knowledge  
 - ☁️ Hands-on labs with **AWS EC2, S3, Lambda** and **Azure App Services**  
-- 🤖 Exploring **RNNs, LSTMs** and **CNNs** for the BCI research paper  
+- 🤖 Exploring **RNNs, LSTMs** and **CNNs** for ongoing research work  
 - 📦 Containerizing apps with **Docker** and learning **CI/CD best practices**  
 
 ---
