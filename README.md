@@ -18,7 +18,7 @@
 
 ---
 
-B.Tech CSE @ MIT-WPU, Pune (2023–2027). I work mostly with the MERN stack and have been getting into cloud and DevOps over the past year. I also co-authored a research paper on AI and nutrition that got accepted at BrainCon – Springer (Scopus-indexed, 2026).
+B.Tech CSE @ MIT-WPU, Pune (2023–2027). I work mostly with the MERN stack and have been getting into cloud and DevOps over the past year. I also co-authored a research paper on AI and nutrition that was accepted at BrainCon – Springer (Scopus-indexed, 2026), currently under publication.
 
 Looking for a 6-month full-stack or cloud engineering internship.
 
@@ -38,11 +38,14 @@ Looking for a 6-month full-stack or cloud engineering internship.
 
 ## Projects
 
+### [Research Copilot](https://github.com/YashLadlapure/research-copilot) &nbsp;·&nbsp; [Live](https://research-copilot-eight.vercel.app)
+AI-assisted publication compliance checker and safe manuscript refinement tool for Springer LNCS and IEEE papers. Paste or upload a manuscript, pick a profile, get a structured compliance report with severity-tagged issues, then refine individual sections with Gemini — with a diff view before you accept anything. Built with React, Vite, Node.js, Express, Gemini API. Submitted to the Build with Gemini hackathon.
+
 ### [Meme Vault](https://github.com/YashLadlapure/meme-vault)
 Full-stack meme sharing platform. Users can upload, browse, and interact with memes. Built with React, Node.js, Express, MongoDB, and Cloudinary for image storage.
 
 ### [InternSetu](https://github.com/YashLadlapure/InternSetu)
-Internship discovery platform for college students. Built with Next.js, Node.js, PostgreSQL, and Docker. Started as a hackathon project and grew into a full deployment roadmap.
+Internship discovery platform for college students. Built with Next.js, Node.js, PostgreSQL, and Docker.
 
 ### [Portfolio Website](https://yashladlapure.github.io/portfolio-website/)
 Personal portfolio with a GitHub Actions CI/CD pipeline — automated HTML validation, link checking, and security headers on every push.
@@ -51,8 +54,8 @@ Personal portfolio with a GitHub Actions CI/CD pipeline — automated HTML valid
 
 ## Research
 
-**AyurGPT: An AI-Driven Heuristic Dietician Agent Integrating Ayurvedic Principles with Modern Nutritional Science**  
-Accepted — BrainCon, Springer Volume 2 (Scopus-indexed), 2026
+**AyurGPT: An AI-Driven Heuristic Dietician Agent Integrating Ayurvedic Principles with Modern Nutritional Science**\
+Accepted — BrainCon, Springer Volume 2 (Scopus-indexed), 2026 · Under publication
 
 ---
 
