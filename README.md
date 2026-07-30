@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/YashLadlapure" target="_blank" rel="noopener noreferrer">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;Cloud+%26+DevOps+Enthusiast;B.Tech+CSE+%40+MIT-WPU+Pune;Open+to+Internship+Opportunities"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+Intern+%40+Augmented+Transformations;Full-Stack+Developer+%7C+MERN+Stack;Data+Engineering+%7C+Spark+%7C+Iceberg+%7C+Docker;B.Tech+CSE+%40+MIT-WPU+Pune+%282023%E2%80%932027%29"
       alt="Typing SVG"
       onerror="this.style.display='none'"
     />
@@ -18,21 +18,32 @@
 
 ---
 
-B.Tech CSE @ MIT-WPU, Pune (2023–2027). I work mostly with the MERN stack and have been getting into cloud and DevOps over the past year. I also co-authored a research paper on AI and nutrition that was accepted at BrainCon – Springer (Scopus-indexed, 2026), currently under publication.
+B.Tech CSE @ MIT-WPU, Pune (2023–2027) · 4th year. Currently interning as a **Software Engineer Intern at Augmented Transformations Pvt. Ltd., Pune**, working on data engineering pipelines, lakehouse architecture, and full-stack development. I work with the MERN stack, Apache Spark, Apache Iceberg, Trino, and Docker. I also co-authored a research paper on AI and nutrition that was accepted at BrainCon – Springer (Scopus-indexed, 2026), currently under publication.
 
-Looking for a 6-month full-stack or cloud engineering internship.
+---
+
+## Current Role
+
+**Software Engineer Intern — Augmented Transformations Pvt. Ltd., Pune**
+
+- Building end-to-end data engineering pipelines (PostgreSQL → Parquet → Apache Iceberg) with Trino for query processing
+- Processing PDF documents to Parquet format using Apache Spark and MinIO (S3-compatible) storage
+- Designing and deploying lakehouse architecture using Docker containerization
+- Full-stack development using Django (backend) and React (frontend)
 
 ---
 
 ## Tech Stack
 
-**Frontend** — React, JavaScript, HTML, CSS, Vite
+**Frontend** — React, Next.js, JavaScript, HTML, CSS, Vite
 
-**Backend** — Node.js, Express, MongoDB, JWT, REST APIs
+**Backend** — Node.js, Express, Django, MongoDB, PostgreSQL, JWT, REST APIs
 
-**Cloud & DevOps** — Docker, AWS, Azure, Vercel, Cloudinary
+**Data Engineering** — Apache Spark, PySpark, Apache Iceberg, Parquet, Trino, DuckDB, MinIO
 
-**Languages** — Python, Java, C++, SQL
+**Cloud & DevOps** — Docker, AWS, Azure, Vercel, Cloudinary, GitHub Actions CI/CD
+
+**Languages** — Python, Java, JavaScript, SQL, C++, Bash/Shell
 
 ---
 
@@ -41,11 +52,11 @@ Looking for a 6-month full-stack or cloud engineering internship.
 ### [Research Copilot](https://github.com/YashLadlapure/research-copilot) &nbsp;·&nbsp; [Live](https://research-copilot-eight.vercel.app)
 AI-assisted publication compliance checker and safe manuscript refinement tool for Springer LNCS and IEEE papers. Paste or upload a manuscript, pick a profile, get a structured compliance report with severity-tagged issues, then refine individual sections with Gemini — with a diff view before you accept anything. Built with React, Vite, Node.js, Express, Gemini API. Submitted to the Build with Gemini hackathon.
 
-### [Meme Vault](https://github.com/YashLadlapure/meme-vault)
-Full-stack meme sharing platform. Users can upload, browse, and interact with memes. Built with React, Node.js, Express, MongoDB, and Cloudinary for image storage.
-
 ### [InternSetu](https://github.com/YashLadlapure/InternSetu)
 Internship discovery platform for college students. Built with Next.js, Node.js, PostgreSQL, and Docker.
+
+### [Meme Vault](https://github.com/YashLadlapure/meme-vault)
+Full-stack meme sharing platform. Users can upload, browse, and interact with memes. Built with React, Node.js, Express, MongoDB, and Cloudinary for image storage.
 
 ### [Portfolio Website](https://yashladlapure.github.io/portfolio-website/)
 Personal portfolio with a GitHub Actions CI/CD pipeline — automated HTML validation, link checking, and security headers on every push.
