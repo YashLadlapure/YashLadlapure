@@ -1,4 +1,4 @@
-# Yash Ladlapure
+![Yash Ladlapure, Software Engineer Intern](banner.svg)
 
 Pipelines, SQL models, and dashboards, plus the web apps around them.
 
