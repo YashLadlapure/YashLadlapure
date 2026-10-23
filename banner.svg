@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Yash Ladlapure, Software Engineer Intern">
+  <rect width="1200" height="300" rx="12" fill="#0d1117"/>
+  <g opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="0.8s" fill="freeze"/>
+    <text x="80" y="128" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="56" font-weight="600" fill="#f0f6fc">Yash Ladlapure</text>
+    <text x="80" y="172" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="22" fill="#8b949e">Software Engineer Intern · Data Engineering and Analytics</text>
+    <text x="80" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#6e7681">B.Tech CSE, MIT-WPU · Pune, India</text>
+  </g>
+  <rect x="80" y="150" width="0" height="3" fill="#2f81f7">
+    <animate attributeName="width" from="0" to="240" dur="1s" begin="0.3s" fill="freeze"/>
+  </rect>
+</svg>
