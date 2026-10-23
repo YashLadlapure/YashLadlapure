@@ -1,14 +1,6 @@
-<h1 align="center">Hi, I'm Yash Ladlapure 👋</h1>
+<h1 align="center">Hi, I'm Yash Ladlapure</h1>
 
-<p align="center">
-  <a href="https://github.com/YashLadlapure" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=700&lines=Software+Engineer+Intern+%40+Augmented+Transformations;Full-Stack+Developer+%7C+MERN+Stack;Data+Engineering+%7C+Spark+%7C+Iceberg+%7C+Docker;B.Tech+CSE+%40+MIT-WPU+Pune+%282023%E2%80%932027%29"
-      alt="Typing SVG"
-      onerror="this.style.display='none'"
-    />
-  </a>
-</p>
+<p align="center">Software Engineer Intern · B.Tech CSE, MIT-WPU · Pune</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-ladlapure"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
