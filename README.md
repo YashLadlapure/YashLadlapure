@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Yash Santosh Ladlapure
+# Hi 👋, I'm Yash santosh ladlapure
 
 **BTech Computer Science & Engineering student at MIT-WPU, Pune**
 
