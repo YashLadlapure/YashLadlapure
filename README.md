@@ -15,12 +15,15 @@ Open to data analyst, BI analyst and data engineering roles, including abroad.
 
 ---
 
-## Skills
+## Start here
 
-- **Analytics:** SQL, PostgreSQL, Power BI (DAX), Tableau, Python, pandas
-- **Data engineering:** Trino, MinIO, Parquet, Apache Iceberg, Hive Metastore, Docker Compose
-- **AI:** retrieval-augmented generation over a SQL database, local language models, Gemini API
-- **Learning now:** Apache Spark, Airflow
+**[Supply Chain Performance Command Center](https://github.com/YashLadlapure/supply-chain-command-center)** is my main project. It covers the full path from a PostgreSQL model to SQL KPIs, a Power BI report and a plain-English question tool with a safety guard.
+
+## What I do
+
+- **Turn raw data into decisions:** SQL, PostgreSQL, Python (pandas), Power BI and Tableau.
+- **Build the pipeline underneath:** Parquet, Iceberg, Trino, MinIO and Docker Compose.
+- **Test what I build:** a scored evaluation for the question tool, data-quality checks for the database, and a guard test suite.
 
 ---
 
@@ -33,19 +36,14 @@ It also has an "Ask the data" tool that turns plain-English questions into read-
 `Python` `PostgreSQL` `SQL` `Power BI` `RAG`
 
 ### [F1 Race Pace Dashboard](https://github.com/YashLadlapure/F1-Race-Pace-Dashboard)
-Tableau dashboard on 372k Formula 1 lap records from 2010 to 2026, prepared with Python and pandas. [Live dashboard](https://public.tableau.com/app/profile/yash.ladlapure/viz/F1_Race_Pace_Dashboard_2010_2026/Dashboard1).
+Tableau dashboard on 372k Formula 1 lap records from 2010 to 2026. Cars got faster from 2010 to 2019, then plateaued under the 2022 rule change. [Live dashboard](https://public.tableau.com/app/profile/yash.ladlapure/viz/F1_Race_Pace_Dashboard_2010_2026/Dashboard1).
 
 `Python` `pandas` `Tableau`
 
 ### [PostgreSQL to Parquet to Iceberg Pipeline](https://github.com/YashLadlapure/pg-parquet-iceberg-pipeline)
-Seeds a normalized PostgreSQL schema with generated data, validates foreign keys and exports Parquet for lakehouse analytics.
+Seeds a normalized PostgreSQL schema with generated data, validates foreign keys and exports Parquet for lakehouse analytics. Related: [Trino federation demo](https://github.com/YashLadlapure/trino-postgres-minio-federation).
 
-`Python` `PostgreSQL` `Parquet` `Iceberg`
-
-### [Trino Federation Demo](https://github.com/YashLadlapure/trino-postgres-minio-federation)
-One Trino SQL query across PostgreSQL user data and Parquet event logs in MinIO, running locally with Docker Compose.
-
-`Trino` `MinIO` `PostgreSQL` `Docker`
+`Python` `PostgreSQL` `Parquet` `Iceberg` `Trino`
 
 ### [Research Copilot](https://github.com/YashLadlapure/research-copilot)
 Checks manuscripts against Springer LNCS and IEEE formatting rules and shows a diff before you accept edits. [Live demo](https://research-copilot-eight.vercel.app).
